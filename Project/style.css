@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(rgb(94, 59, 44), rgb(84, 90, 53));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    color: white;
+    font-family: "Oswald"
+}
+
+body{
+    color: rgb(231, 226, 226);
+    font-family: "Oswald"
+}
+
+#header1{
+    text-align: center;
+}
+
+#nav1{
+    text-align: center;
+    color: initial;
+    text-decoration: none;
+}
+
+#nav1:visited{
+    color: initial;
+}
+
+#box1{
+    width: 420px;
+}
